@@ -1,5 +1,6 @@
 ####Where to Get Fresh Produce in Wilmington, NC
 There’s nothing that says “summer” more than visiting a farmer’s market. Passing through the tents of lush salad greens, deep maroon beets, and bright red cherry tomatoes solidifies the feelings of summer. Though Wilmington is a beach town, there are many farms within 30-60 miles that provide produce and plants to our markets weekly. Check out this article to find out where all the local markets are; there are markets you can visit every day of the week!
+
 ####Wrightsville Beach Farmer’s Market 
 
 #####Location: Wrightsville Beach Municipal Grounds (adjacent to Town Hall).
