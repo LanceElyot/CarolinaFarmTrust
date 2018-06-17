@@ -59,10 +59,17 @@ Poplar Grove is a Wilmington must-see – giant old trees, historic architecture
 
 
 Works Cited
+
 Carolina Beach Farmers Market, 31 Mar. 2012, www.facebook.com/CarolinaBeachFarmersMarket/photos/a.376258489074430.90777.113902938643321/376258492407763/?type=3&theater.
+
 “Instagram.” Instagram, Wilmington, 26 May 2018, www.instagram.com/p/BjPh6CqBqn1/?taken-by=thewilmingtonfarmersmarket.
+
 Poplar Grove Plantation, 14 June 2017, www.instagram.com/p/BVUcd4tFyN7/?taken-by=poplar_grove.
+
 Port City Produce, 29 Apr. 2017, www.instagram.com/p/BTeQrbdhFqw/?taken-by=portcityproduce.
+
 Riverfront Farmer's Market Inc, Downtown, 17 Apr. 2017, www.facebook.com/riverfrontfarmersmarket/photos/a.375225899162977.92956.190757197609849/1497333496952206/?type=1&theater.
+
 Terra Vita Farm, 4 June 2018, www.instagram.com/p/BjmqVt6hSqn/?taken-by=terra.vita.farm.
+
 
