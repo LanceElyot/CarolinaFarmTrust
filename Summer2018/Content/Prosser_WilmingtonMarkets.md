@@ -6,6 +6,7 @@ There’s nothing that says “summer” more than visiting a farmer’s market.
 ##### Location: Wrightsville Beach Municipal Grounds (adjacent to Town Hall).
 ##### Hours: Every Monday 8AM-1PM May 14th - October 29th 
 Wrightsville Beach Farmers Market meets every Monday to bring Wilmingtonians a mix of fresh, local produce, baked goods, and artisan crafts. You can find dinner and a birthday present in one stop. 
+![Wrightsville Beach Farmer's Market](https://github.com/LanceElyot/CarolinaFarmTrust/blob/master/WB%20Market.jpg?raw=true)
 
 
 
@@ -13,6 +14,7 @@ Wrightsville Beach Farmers Market meets every Monday to bring Wilmingtonians a m
 ##### Locations: 5740 Market St and 6458 Carolina Beach Road
 ##### Hours: 9AM-7PM
 With two locations in the Wilmington area, Port City Produce is helping keep everyone fed. They provide local (and some non-local) produce to the area including everything from fresh butter beans to avocados. They also provide some prepared snacks, local cheeses, and salsas. 
+![Port City Produce](https://github.com/LanceElyot/CarolinaFarmTrust/blob/master/PCProduce.jpg?raw=true)
 
 
 
@@ -25,14 +27,14 @@ Market every Saturday 8AM-1PM, year-round
 Co-op open Monday – Sunday 8AM-9PM
 ##### Location: 5329 Oleander Dr Ste 100
 The only co-op in Wilmington now hosts a farmer’s market every Saturday! This market prides itself on having only the most local of farmers joining in. If you can’t make it to the Saturday market, the co-op itself provides some of the same produce and meats daily. You can also cut down on waste by taking advantage of Tidal Creek’s bulk buying system – you can bring your own jars to weigh and fill with lentils, beans, and organic spices. 
-
+![Tidal Creek Market](https://github.com/LanceElyot/CarolinaFarmTrust/blob/master/Tidal.jpg?raw=true)
 
 
 #### Carolina Beach Farmer’s Market
 ##### Location: Carolina Beach Lake
 ##### Hours: Every Saturday 8AM-1PM, May to September
 Carolina Beach’s farmer’s market is a staple for those who live there. With only two fully-stocked grocery stores on the island, having a fresh produce brought down every weekend is a treat. This market is also a mix of farmers and craft-makers, providing art and enrichment to the beach.
-
+![CB Farmer's Market](https://github.com/LanceElyot/CarolinaFarmTrust/blob/master/cb%20farm.jpg?raw=true)
 
 
 #### Riverfront Farmer’s Market in Downtown Wilmington
@@ -40,11 +42,13 @@ Carolina Beach’s farmer’s market is a staple for those who live there. With 
 ##### Location: North Water Street in Downtown Wilmington
 ##### Hours: Every Saturday 8AM-1PM, March 31st-November 17th 
 If you find yourself in Historic Downtown Wilmington on a Saturday morning, the farmer’s market is a must. The market provides produce from farmers all over eastern North Carolina, fresh seafood, homemade dog treats, and even live music to shop to. You can find tonight’s dinner while you catch a look at the Battle Ship and some of the historic buildings. 
+![Riverfront Farmer's Market](https://github.com/LanceElyot/CarolinaFarmTrust/blob/master/riverfront%20market.jpg?raw=true)
 
 #### Poplar Grove Farmer’s Market
 ##### Location: 10200 US Highway 17, Wilmington, NC
 ##### Hours: Every Wednesday 8AM-1PM, April 18th-September 26th 
 Poplar Grove is a Wilmington must-see – giant old trees, historic architecture, and now a farmer’s market! Offering local meats, vegetables, crafts, and body products, this is the perfect mid-week stop to find your groceries. 
+![Poplar Grove Market](https://github.com/LanceElyot/CarolinaFarmTrust/blob/master/PopGrove.jpg?raw=true)
 
 
 
